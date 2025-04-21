@@ -6,8 +6,8 @@ This project **is a simple Digital Clock** built using HTML, CSS, and JavaScript
 It’s a great project for beginners to understand how to work with the Date object, update the DOM dynamically, and create a clean UI using basic HTML/CSS.
 
 ---
-### 🔗 GitHub Source Code: 
-### 🌐 Live Demo: 
+### 🔗 GitHub Source Code: https://github.com/PoonamChauhan229/Digital-Clock-Js-Projects
+### 🌐 Live Demo: https://poonamchauhan229.github.io/Digital-Clock-Js-Projects/
 
 📁 Project Structure
 ```
@@ -253,4 +253,4 @@ This Digital Clock app demonstrates how to work with the JavaScript `Date` objec
 
 By expanding it to include alarm features, themes, or even timezone conversions, you can elevate this project from a simple widget to a full-featured productivity tool!
 
-> 💻 [Check out the full project on GitHub](https://github.com/PoonamChauhan229/Digital-Clock-Js-Project)
+> 💻 [Check out the full project on GitHub](https://github.com/PoonamChauhan229/Digital-Clock-Js-Projects)
